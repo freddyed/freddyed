@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freddyed
 - 👀 I’m interested in development of embedded systems.
-- 🌱 I’m currently learning Hardware Design Engineering.
+- 🌱 I’m currently learning IoT technologies.
 - 💞️ I’m looking to collaborate on software development projects for embedded systems.
 
 <!---
