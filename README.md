@@ -45,8 +45,9 @@ Electronic Engineer and Economist. Yes, I know what you're thinking 😅 but the
 ### Github Stats   
 <div align="center">
   
-![github stats](https://github-readme-stats.vercel.app/api?username=freddyed&show_icons=true&theme=radical)
- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyed&show_icons=true&theme=radical)
+
+
 </div>  
 
 <br/>  
@@ -55,8 +56,10 @@ Electronic Engineer and Economist. Yes, I know what you're thinking 😅 but the
 
 ### Most Used Languages   
 <div align="center">
-  
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=freddyed&show_icons=true&theme=radical)
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyed&show_icons=true&theme=radical)
+
 
 </div>  
 
